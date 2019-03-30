@@ -1,0 +1,11 @@
+{
+  "name": "myProExpress",
+  "version": "1.0.0",
+  "description": "h5express服务",
+  "main": "app.js",
+  "author": "hanyeyeyeye",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
